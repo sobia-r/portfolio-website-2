@@ -1,9 +1,9 @@
 import styles from './ProjectsStyles.module.css';
-import viberr from '/Users/sobiajawad/portfolio-website-2/portfolio-website-2/src/assets/viberr.png';
-import freshBurger from '/Users/sobiajawad/portfolio-website-2/portfolio-website-2/src/assets/fresh-burger.png';
-import hipsster from '/Users/sobiajawad/portfolio-website-2/portfolio-website-2/src/assets/FemaleHeroImage.png';
-import fitLift from '/Users/sobiajawad/portfolio-website-2/portfolio-website-2/src/assets/fitlift.png';
-import ProjectCard from '/Users/sobiajawad/portfolio-website-2/portfolio-website-2/src/common/ProjectCard';
+import viberr from '../../assets/viberr.png';
+import freshBurger from '../../assets/fresh-burger.png';
+import hipsster from '../../assets/FemaleHeroImage.png';
+import fitLift from '../../assets/fitlift.png';
+import ProjectCard from '../../common/ProjectCard';
 
 
 function Projects() {
