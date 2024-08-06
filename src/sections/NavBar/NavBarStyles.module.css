@@ -1,4 +1,4 @@
-.navbar {
+.container {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -33,5 +33,4 @@
 .navmenu a {
     text-decoration: none;
     font-size: 2em;
-    color: #222;
 }
